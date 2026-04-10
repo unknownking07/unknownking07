@@ -8,6 +8,8 @@ full-time builder. mass-shipping AI products, games, and onchain tools — mostl
 
 [VibeTalent](https://vibetalent.work/?utm_source=github) hit **#11 on Product Hunt** — a platform that ranks vibecoders by how they ship, not what's on their resume. built with Next.js, Supabase, and a custom AI agent.
 
+[![Product Hunt #11](./ph-ranking.jpg)](https://www.producthunt.com/products/vibetalent)
+
 also shipped: farcaster mini-apps, onchain games, browser extensions, and too many side projects to count.
 
 if it involves AI, shipping fast, or building something weird — i'm probably already working on it.
